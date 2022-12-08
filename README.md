@@ -3,3 +3,5 @@ To get the data, please download the images from https://drive.google.com/file/d
 The images for the windmill dataset can be accessed here: https://drive.google.com/drive/folders/1ORp96gfWfES52-zFmQlbEKiJhkAm7C-D?usp=share_link
 
 Then, if you are using pip, please install the requirement.txt. If you are using conda, install environment.yml.
+
+For the main training process, use the cs182_final_project_code.ipynb and follow the comments there. 
